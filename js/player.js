@@ -17,8 +17,6 @@ const playerDrawCoord = [
   { x: canvasWidth / 2 + 12, y: 720 }
 ];
 
-// playerBoardImage.addEventListener('load', () => {});
-
 class Player {
   constructor(name, id) {
     this.name = name;
